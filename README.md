@@ -10,6 +10,8 @@ Previews project: [servlets-and-jsp-v1](https://github.com/FlorescuAndrei/servle
   - Add filter;  
   - Add logout;  
   - Use Bootstrap.  
+
+
 New in current project:   
  - Adding Category Field.  
  - Use JSP Fragments  
